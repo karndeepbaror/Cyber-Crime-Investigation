@@ -1,0 +1,32 @@
+================ REDACTED CHAT SAMPLE ================
+
+Platform        : Instagram Direct Messages
+Case Reference  : Case-01_Instagram-Impersonation
+Data Status     : REDACTED (Training & Demonstration Use Only)
+
+-----------------------------------------------------
+[2025-12-03 | 19:42 IST]
+Account_A : Hello, are you the real [REDACTED_NAME]?
+
+[2025-12-03 | 19:43 IST]
+Account_B : Yes. Who are you?
+
+[2025-12-03 | 19:45 IST]
+Account_A : I found another profile using your photos.
+             They are asking people for money.
+
+[2025-12-03 | 19:47 IST]
+Account_B : I am not aware of this. Can you share details?
+
+-----------------------------------------------------
+Observations:
+- Message timestamps preserved
+- Language pattern consistent
+- Potential impersonation indicator detected
+- No message tampering observed
+
+Note:
+All personal identifiers have been masked to ensure
+privacy and legal compliance.
+
+=====================================================
