@@ -1,0 +1,23 @@
+================ INVESTIGATION TIMELINE ==============
+
+Case ID        : DFIR-CASE-01
+Incident Type : Social Media Impersonation
+Status        : Closed (Training Case)
+
+-----------------------------------------------------
+Date        Time       Event
+-----------------------------------------------------
+02-11-2024  18:30     Victim noticed fake profile
+02-11-2024  19:10     Screenshots collected
+02-11-2024  20:05     Profile URL documented
+03-11-2024  09:30     Metadata analysis performed
+03-11-2024  11:45     Evidence preserved
+03-11-2024  14:00     Final report prepared
+
+-----------------------------------------------------
+Remarks:
+- No live interaction performed
+- Passive evidence collection only
+- Timeline preserved in chronological order
+
+=====================================================
