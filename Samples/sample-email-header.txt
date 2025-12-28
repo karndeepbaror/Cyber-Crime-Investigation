@@ -1,0 +1,26 @@
+================ SAMPLE EMAIL HEADER =================
+
+Case Reference : Case-03_Email-Phishing
+Analysis Type  : Header Metadata Review
+Data Status    : REDACTED
+
+-----------------------------------------------------
+From        : "Support Team" <support@[REDACTED].com>
+To          : victim@[REDACTED].com
+Date        : 03 December 2025 10:14:22 +0530
+Subject     : Urgent Account Verification Required
+
+Received    : from mail.[REDACTED].net
+               by mx.google.com with ESMTP id [REDACTED]
+
+SPF Result  : FAIL
+DKIM Result : NONE
+DMARC       : FAIL
+
+-----------------------------------------------------
+Observations:
+- Sender domain mismatch detected
+- SPF & DMARC failures indicate spoofing
+- High probability of phishing attempt
+
+=====================================================
